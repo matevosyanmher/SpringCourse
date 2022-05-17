@@ -4,19 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8c7bdd0-b845-4f6e-ac1d-37fa3007cc4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/am/mher/springcourse/TestBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/am/mher/springcourse/TestSpring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resourses/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+    <list default="true" id="a8c7bdd0-b845-4f6e-ac1d-37fa3007cc4a" name="Changes" comment="start">
+      <change afterPath="$PROJECT_DIR$/src/main/java/am/mher/springcourse/ClassicalMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/am/mher/springcourse/JazzMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/am/mher/springcourse/Music.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/am/mher/springcourse/MusicPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/am/mher/springcourse/RockMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resourses/musicPlayer.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/am/mher/springcourse/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/am/mher/springcourse/TestSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resourses/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resourses/applicationContext.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -50,8 +48,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "spring.configuration.checksum": "5720c2d30583ba24693e8571ea81933f"
+    "settings.editor.selected.configurable": "preferences.editor",
+    "spring.configuration.checksum": "ea3d683c41a068758c6f95fa2e663c5e"
   }
 }]]></component>
   <component name="RunManager">
@@ -83,8 +81,17 @@
       <option name="presentableId" value="Default" />
       <updated>1652382588738</updated>
       <workItem from="1652382608647" duration="1673000" />
-      <workItem from="1652385503306" duration="2185000" />
+      <workItem from="1652385503306" duration="2664000" />
+      <workItem from="1652798306535" duration="13582000" />
     </task>
+    <task id="LOCAL-00001" summary="start">
+      <created>1652390070543</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652390070543</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,5 +107,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="start" />
+    <option name="LAST_COMMIT_MESSAGE" value="start" />
   </component>
 </project>
